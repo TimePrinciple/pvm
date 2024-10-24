@@ -1,0 +1,11 @@
+[package]
+name = "pvm-ioctls"
+version = "0.1.0"
+authors = ["TimePrinciple"]
+license = "Apache-2.0"
+description = "Safe wrappers over PVM ioctls."
+repository = "https://github.com/TimePrinciple/pvm"
+edition = "2021"
+keywords = ["pvm"]
+
+[dependencies]

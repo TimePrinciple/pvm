@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "pvm-bindings",
+    "pvm-ioctls",
+]
+resolver = "2"
+

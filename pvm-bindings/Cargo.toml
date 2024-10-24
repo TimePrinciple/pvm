@@ -1,0 +1,11 @@
+[package]
+name = "pvm-bindings"
+version = "0.1.0"
+authors = ["TimePrinciple"]
+license = "Apache-2.0"
+description = "Rust FFI bindings to pvm generated using bindgen."
+repository = "https://github.com/TimePrinciple/pvm"
+edition = "2021"
+keywords = ["pvm"]
+
+[dependencies]
